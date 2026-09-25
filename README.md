@@ -20,12 +20,7 @@
   data-importer="image"
   align="right"
   height="180"
-  src="<img
-  data-importer="image"
-  align="right"
-  height="160"
-  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-/>"
+  src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif"
 />
 
 ###
